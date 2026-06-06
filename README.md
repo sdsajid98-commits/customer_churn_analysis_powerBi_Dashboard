@@ -72,11 +72,11 @@ This project helped in:
 - Building interactive and insight-driven Power BI dashboards
 
 ## Screenshots
-![Dashboard Overview]([https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/1-overview.jpg])
-![Age and Billing]([https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/2-age_and_billing.jpg])
-![Contract And Payments]([https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/3_contract_and_payment.jpg])
-![Extra Charges]([https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/4_extra_charges.jpg])
-![Additional Inisghts]([https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/5_additional_insights.jpg])
+![Dashboard Overview](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/1-overview.jpg)
+![Age and Billing](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/2-age_and_billing.jpg)
+![Contract And Payments](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/3_contract_and_payment.jpg)
+![Extra Charges](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/4_extra_charges.jpg)
+![Additional Inisghts](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/5_additional_insights.jpg)
 
 ## Future Improvements
 - Predictive churn modeling using Python or R
